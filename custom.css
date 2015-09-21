@@ -1,0 +1,8 @@
+gtd {
+  padding-left: 1em;
+}
+gtd .fa {
+  margin-left: -1em;
+  width: 1em;
+  margin-right: -0.25em;
+}
